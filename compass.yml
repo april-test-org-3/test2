@@ -29,7 +29,13 @@ configVersion: 1
 typeId: SERVICE
 fields:
   tier: 3
-links: []
+links:
+  - name: test/link
+    type: REPOSITORY
+    url: 'https://github.com/april-test-org-3/test2'
+  - name: null
+    type: PROJECT
+    url: 'https://wexinc.atlassian.net/browse/PAAS'
 labels:
   - bitbucket-import
 customFields: []
