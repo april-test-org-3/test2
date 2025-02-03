@@ -6,15 +6,15 @@ ownerId: 'ari:cloud:identity::team/40b841c4-0848-4dfb-8083-b9c5477b5d99'
 fields:
   tier: 4
 links:
-  - name: test/link
+  - name: 'test/link'
     type: REPOSITORY
     url: 'https://github.com/april-test-org-3/test2'
-  - name: ''
+  - name: null
     type: PROJECT
     url: 'https://wexinc.atlassian.net/browse/PAAS'
 relationships: {}
 labels:
-  - github-action
+  - 'github-action'
   - 'source:github'
 customFields:
   - name: Fabric ID
