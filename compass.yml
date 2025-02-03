@@ -1,21 +1,22 @@
 name: test2
-description: 'Test component'
-configVersion: 1
+description: Test component
+configVersion: 2
 typeId: SERVICE
+ownerId: 'ari:cloud:identity::team/40b841c4-0848-4dfb-8083-b9c5477b5d99'
 fields:
   tier: 4
 links:
-  - name: 'test'
+  - name: test/link
     type: REPOSITORY
     url: 'https://github.com/april-test-org-3/test2'
-  - name: null
+  - name: ''
     type: PROJECT
     url: 'https://wexinc.atlassian.net/browse/PAAS'
 relationships: {}
 labels:
   - github-action
-  - source:github
+  - 'source:github'
 customFields:
   - name: Fabric ID
     type: text
-    value: 'fabric'
+    value: fabric
