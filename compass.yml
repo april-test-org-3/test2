@@ -37,6 +37,7 @@ links:
     type: PROJECT
     url: 'https://wexinc.atlassian.net/browse/PAAS'
 labels:
-  - bitbucket-import
+  - githubaction
+  - source:github
 customFields: []
 relationships: {}
