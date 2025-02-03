@@ -24,11 +24,11 @@
 name: april-hello-test-10
 id: ari:cloud:compass:b5237b58-dc9d-4e84-a5f1-e26f27780aaa:component/6beafa82-310b-45eb-a52c-b28f49974705/44b79683-f575-44aa-8ca1-8ab1adc7fc01
 description: "testing"
-ownerId: null
+ownerId: 'ari:cloud:identity::team/40b841c4-0848-4dfb-8083-b9c5477b5d99'
 configVersion: 1
 typeId: SERVICE
 fields:
-  tier: 4
+  tier: 3
 links: []
 labels:
   - bitbucket-import
