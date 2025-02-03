@@ -26,7 +26,7 @@ id: ari:cloud:compass:b5237b58-dc9d-4e84-a5f1-e26f27780aaa:component/6beafa82-31
 description: "testing"
 ownerId: 'ari:cloud:identity::team/40b841c4-0848-4dfb-8083-b9c5477b5d99'
 configVersion: 1
-typeId: SERVICE
+typeId: CAPABILITY
 fields:
   tier: 3
 links:
