@@ -1,22 +1,35 @@
+# configVersion: 1
+# name: my-test2
+# description: This is a sample component in Compass.
+# typeId: SERVICE
+# ownerId: 'ari:cloud:identity::team/40b841c4-0848-4dfb-8083-b9c5477b5d99'
+# fields:
+#   tier: 3
+# labels:
+#   - githubaction
+#   - source:github
+# links:
+#   - name: test/link
+#     type: REPOSITORY
+#     url: 'https://github.com/april-test-org-3/test2'
+#   - name: null
+#     type: PROJECT
+#     url: 'https://wexinc.atlassian.net/browse/PAAS'
+# customFields:
+#   - name: Fabric ID
+#     type: text
+#     value: fabric
+# relationships: {}
+
+name: april-hello-test-10
+description: "testing"
+ownerId: null
 configVersion: 1
-name: my-test2
-description: This is a sample component in Compass.
 typeId: SERVICE
-ownerId: 'ari:cloud:identity::team/40b841c4-0848-4dfb-8083-b9c5477b5d99'
 fields:
-  tier: 3
+  tier: 4
+links: []
 labels:
-  - githubaction
-  - source:github
-links:
-  - name: test/link
-    type: REPOSITORY
-    url: 'https://github.com/april-test-org-3/test2'
-  - name: null
-    type: PROJECT
-    url: 'https://wexinc.atlassian.net/browse/PAAS'
-customFields:
-  - name: Fabric ID
-    type: text
-    value: fabric
+  - bitbucket-import
+customFields: []
 relationships: {}
