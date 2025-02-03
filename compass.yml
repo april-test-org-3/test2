@@ -22,6 +22,7 @@
 # relationships: {}
 
 name: april-hello-test-10
+id: ari:cloud:compass:b5237b58-dc9d-4e84-a5f1-e26f27780aaa:component/6beafa82-310b-45eb-a52c-b28f49974705/44b79683-f575-44aa-8ca1-8ab1adc7fc01
 description: "testing"
 ownerId: null
 configVersion: 1
