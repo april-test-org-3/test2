@@ -3,8 +3,6 @@ description: Test component
 configVersion: 1
 typeId: SERVICE
 ownerId: 'ari:cloud:identity::team/40b841c4-0848-4dfb-8083-b9c5477b5d99'
-fields:
-  tier: 4
 links:
   - name: test/link
     type: REPOSITORY
